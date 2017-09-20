@@ -8,17 +8,9 @@
             "email": "davi@andradenunes.org"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "name": "sly/notification-pusher",
-            "url": "https://github.com/AlboVieira/NotificationPusher"
-        }
-    ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "5.*",
-        "sly/notification-pusher": "dev-master"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "psr-0": {
